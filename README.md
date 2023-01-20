@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I’m Jerin ( @jerin-fegno )</h1>
 <h3 align="center">working with the team @fegno as Backend Engineer serving 30+ satisfied customers over the past few years</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerinisready&label=Profile%20views&color=0e75b6&style=flat" alt="jerinisready" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerinisready&label=Profile%20views&color=0e75b6&style=flat" alt="jerinisready" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jerinisready" target="blank"><img src="https://img.shields.io/twitter/follow/jerinisready?logo=twitter&style=for-the-badge" alt="jerinisready" /></a> </p>
+<p align="left"> 
+  
+  <img src="https://komarev.com/ghpvc/?username=jerinisready&label=Profile%20views&color=0e75b6&style=flat" alt="jerinisready" />
+  <a href="https://twitter.com/jerinisready" target="blank"><img src="https://img.shields.io/twitter/follow/jerinisready?logo=twitter&style=for-the-badge" alt="jerinisready" /></a> 
+  ![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/5293?logoColor=white%26project=%26recentMS=0%26showProject=false)
+</p>
 <table>
   <tr>
     <td>
